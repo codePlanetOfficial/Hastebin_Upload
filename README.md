@@ -1,4 +1,4 @@
-# Hastebin Upload
+# Hastebin_Upload
 
 Upload text to hastebin right from your desktop, made using C#.
 
@@ -27,3 +27,8 @@ https://drive.google.com/drive/folders/1cqBqd1c6NHhe4ohoAs3oEup3hZ77F_-Y?usp=sha
 - [codePlanet](https://github.com/codePlanetOfficial)
 
 
+
+## Hastebin Alternative
+
+Dont trust the original Hastebin? You can use the codePlanet hastebin instead. You can find it here:
+https://paste.codeplanet.com.au
