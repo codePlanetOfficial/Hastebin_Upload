@@ -13,7 +13,7 @@ Upload text to hastebin right from your desktop, made using C#.
 
 ## Demo
 
-![Demo Gif](https://i.imgur.com/aWNhsCW.gif)
+![Demo Gif](https://i.imgur.com/2V4AQF0.gif)
 ## Download
 
 You can download the exe files from the Google Drive link bellow.
